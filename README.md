@@ -1,5 +1,5 @@
 # Hi, my name is Tanika Suresh!
-I am currently a sophomore at the Rutgers Business School in New Brunswick! I am majoring in Business Analytics and Information Technology and hope to gain data analysis experience through an internship.
+I am currently a sophomore at the Rutgers Business School in New Brunswick! I am majoring in Business Analytics and Information Technology and hope to gain experience with data analysis through an internship.
 
 As my freshman year concluded, I took it upon myself to learn some important tools and languages that analysts should know, like SQL and pandas. 
 As I learned the basics, I practiced with various online resources to showcase my development and knowledge, and I am proud to display that work.
